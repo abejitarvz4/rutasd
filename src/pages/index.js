@@ -1,0 +1,7 @@
+export * from './DashPage'
+export * from './HomePage'
+export * from './LoginPage'
+export * from './RegisterPage'
+export * from './HolaPage'
+export * from './HomeloChino'
+export * from './SoyHomelo'
